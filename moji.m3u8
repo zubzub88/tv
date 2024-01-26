@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:2
-#EXTINF:65535,
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="Nasional",MOJI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
